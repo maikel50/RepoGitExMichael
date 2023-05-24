@@ -1,9 +1,11 @@
 
+
 public class PrincipalApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int []edad = {12,18,5,66,29,8,20,65};
+		
+		
 	}
 
 }
