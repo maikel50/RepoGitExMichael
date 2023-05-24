@@ -1,5 +1,12 @@
-
+/**
+ * creacion de la clase ClaseApp
+ * @author alumno
+ *
+ */
 public class ClaseApp {
+	/*
+	 * creacion de la array y el constructor y getter y setters y el metodo calcularEdad
+	 */
 	private int [] edad;
 
 	public ClaseApp(int[] edad) {
